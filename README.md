@@ -5,3 +5,5 @@ API keys start with
 - catvideo_ (we have push protection for these)
   
 dogvideo_1234
+
+catvideo_1234
